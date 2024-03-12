@@ -60,7 +60,7 @@
     "@types/lodash": "^4.14.202",
     "@types/mocha": "^10.0.6",
     "@types/node": "^18.19.22",
-    "@types/react": "^18.2.55",
+    "@types/react": "^18.2.65",
     "@types/stylis": "^4.2.5",
     "chai": "^4.4.1",
     "prettier": "^3.2.5",
